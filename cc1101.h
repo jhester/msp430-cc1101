@@ -3,7 +3,7 @@
 
 #include <stdint.h>
 #include <msp430.h>
-#include "../util/macros.h"
+#include "macros.h"
 #include "registers.h"
 #include "pins.h"
 
